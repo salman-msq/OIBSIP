@@ -1,1 +1,8 @@
-
+Introduction -> Number Guessing Game in which computer generate a sectret number between 1 and 100 and user/player guesses a number between 1 and 100.
+Play -> Player can play the game in either Easy mode or Hard mode.
+	 Easy -> In this mode, player has unlimited attempts to guess the number and win the points according to the number of attempts, if player takes at 
+           most 4 attempts then player win 30 points, if player takes at most 10 attempts then player win 20 points otherwise 10 points.
+	 Hard -> In this mode, player has 3 attempts to guess the number and win the 50 points.
+		       If player does not guess the number in 3 attempts then 20 points deduct from the score.
+Score -> Player can check the score here and number of times game played.
+Exit -> Player can exit from the game.
